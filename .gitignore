@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/QRCode Service/*
+!/QRCode Service/task/
+/QRCode Service/task/*
+!/QRCode Service/task/src
+!/QRCode Service/task/build.gradle
