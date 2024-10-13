@@ -1,1 +1,1 @@
-Spring Boot QR COde Project
+Spring Boot QR Code Hyperskill Project
